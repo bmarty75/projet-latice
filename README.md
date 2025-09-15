@@ -47,4 +47,17 @@ Project carried out in a group as part of the **1st-year Computer Science progra
 ## 📖 How to Run the Project
 ### Console Version
 1. Compile the project with `javac`
+2. Run the game with `java`  
+
+### JavaFX Version
+1. Import the project into **Eclipse or IntelliJ**  
+2. Configure the **JavaFX library**  
+3. Run the main class `LaticeJavaFXApplication`  
+
+---
+
+## 📜 License
+Academic project – University of Limoges  
+For educational purposes only
+
 
