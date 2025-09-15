@@ -1,61 +1,50 @@
 # projet-latice
-Projet académique visant à développer une version numérique du jeu de société hawaïen Latice. Le projet a été réalisé d’abord en console pour implémenter la logique du jeu, puis migré vers une version JavaFX avec interface graphique interactive.
+Academic project aiming to develop a digital version of the Hawaiian board game Latice. The project was first implemented in the **console** to handle the game logic, then migrated to a **JavaFX version** with an interactive graphical interface.
 
 ---
 
-## 📌 Objectifs du projet
-- Implémenter les **règles du jeu Latice** en Java.  
-- Concevoir une architecture **orientée objet** claire et modulaire.  
-- Migrer une application console vers une **interface graphique** en JavaFX.  
-- Développer des compétences en **gestion de projet en équipe**.  
+## 📌 Project Objectives
+- Implement the **rules of the Latice game** in Java.  
+- Design a clear and modular **object-oriented architecture**.  
+- Migrate a console application to a **graphical interface** using JavaFX.  
+- Develop skills in **team project management**.  
 
 ---
 
-## 🛠️ Technologies utilisées
-- **Langage :** Java  
-- **Framework :** JavaFX  
-- **Outils :** Git, Eclipse  
-- **Méthodologie :** Programmation orientée objet (POO), UML  
+## 🛠️ Technologies Used
+- **Language:** Java  
+- **Framework:** JavaFX  
+- **Tools:** Git, Eclipse  
+- **Methodology:** Object-Oriented Programming (OOP), UML  
 
 ---
 
-## 🚀 Fonctionnalités
-- 🎲 Gestion complète des règles du jeu Latice  
-- 👥 Jeu multijoueur (en local)  
-- 🎨 Interface graphique (JavaFX) :  
-  - Plateau de jeu interactif  
-  - Déplacement des tuiles par drag & drop  
-  - Affichage du score des joueurs  
+## 🚀 Features
+- 🎲 Full implementation of the Latice game rules  
+- 👥 Local multiplayer functionality  
+- 🎨 Graphical interface (JavaFX):  
+  - Interactive game board  
+  - Tile movement via drag & drop  
+  - Player score display  
 
 ---
 
-## 👥 Équipe projet
-Projet réalisé en groupe dans le cadre du **BUT Informatique – 1ère année**.  
-- Mon rôle : Développement de l’interface graphique en JavaFX, application de bonnes pratiques de clean code et organisation du projet à l’aide de diagrammes UML.  
+## 👥 Project Team
+Project carried out in a group as part of the **1st-year Computer Science program**.  
+- My role: Development of the graphical interface using JavaFX, application of clean code best practices, and project organization using UML diagrams.  
 
 ---
 
-## 🎯 Compétences acquises
-- Programmation orientée objet (Java)  
-- Développement d’interfaces graphiques (JavaFX)  
-- Gestion d’événements et interaction utilisateur  
-- Travail collaboratif avec Git  
-- Conception UML et modélisation  
- 
----
-
-## 📖 Lancer le projet
-### Version console
-1. Compiler le projet avec `javac`  
-2. Lancer le jeu avec `java`  
-
-### Version JavaFX
-1. Importer le projet dans **Eclipse ou IntelliJ**  
-2. Configurer la librairie **JavaFX**  
-3. Lancer la classe principale `LaticeJavaFXApplication`  
+## 🎯 Skills Acquired
+- Object-oriented programming (Java)  
+- Graphical interface development (JavaFX)  
+- Event handling and user interaction  
+- Collaborative work using Git  
+- UML design and modeling  
 
 ---
 
-## 📜 Licence
-Projet académique – Université de Limoges  
-Usage pédagogique uniquement  
+## 📖 How to Run the Project
+### Console Version
+1. Compile the project with `javac`
+
